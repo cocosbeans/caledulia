@@ -1,0 +1,9 @@
+{
+    "folder_commands": "./commands/",
+    "prefix": ">",
+    "token": "",
+    "whitelist_prefix": "!",
+    "whitelists": {
+        "developers": ["1046996742735937587"]
+    }
+}
